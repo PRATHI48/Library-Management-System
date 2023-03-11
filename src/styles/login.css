@@ -1,0 +1,46 @@
+.login{
+    padding: auto;
+    margin: auto;
+    font-size: large;
+    display: flex;
+    background:linear-gradient(rgba(94, 89, 89, 0.007),rgba(0, 0, 0, 0.062)),url('/public/1.jfif') ;
+    height:100vh;
+    background-size: cover;    
+    }
+
+.login_form{
+    /* border: 1px solid black; */
+    margin: auto;
+    display:flex;
+    margin-top: 90px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px 10px black;
+    background-color: white;
+
+}
+.login_form h1{
+    text-align: center;
+    
+}
+.login_form img{
+    border-radius: 20px;
+}
+
+.login_form button{
+    border: 1px solid black;
+    border-radius: 30px;
+    margin-left: 10px;
+    padding: 10px;
+    width: 100px;
+    box-shadow: 3px 3px 5px 2px black;
+}
+.form-control {
+ border: 1px solid black;
+ height: 40px;
+ width: 450px;
+ margin: 10px;
+ border-radius: 30px;
+ padding: 10px;
+ box-shadow: 3px 3px 5px 2px black;
+}
+

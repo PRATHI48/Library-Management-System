@@ -1,0 +1,17 @@
+.read{
+    display: flex;
+    padding: 20px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px black;
+    height: 520px;
+    width: 900px;
+}
+.readbook{
+    
+    background:linear-gradient(rgba(94, 89, 89, 0.007),rgba(0, 0, 0, 0.062)),url(https://peoriaparks.org/wp-content/uploads/2017/12/BookCourt_iStock-690358116-e1515177346323.jpg);
+}
+.info{
+    padding: 20px;
+}
